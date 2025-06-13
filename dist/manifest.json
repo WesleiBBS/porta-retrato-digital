@@ -2,7 +2,7 @@
   "name": "Porta-Retrato Digital",
   "short_name": "PortaRetrato",
   "description": "Porta-retrato digital inteligente com assistente de voz",
-  "start_url": "https://wesleibbs.github.io/porta-retrato-digital",
+  "start_url": "https://wesleibbs.github.io/porta-retrato-digital/",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#000000",

@@ -1,6 +1,6 @@
 {
   "compilerOptions": {
-    "baseUrl": "./",
+    "baseUrl": "https://wesleibbs.github.io/porta-retrato-digital/",
     "paths": {
       "@/*": ["src/*"]
     }

@@ -1,6 +1,6 @@
 {
   "name": "Porta-Retrato Digital",
-  "short_name": "PortaRetrato",
+  "short_name": "Retrato",
   "description": "Porta-retrato digital inteligente com assistente de voz",
   "start_url": "https://wesleibbs.github.io/porta-retrato-digital/",
   "display": "standalone",
